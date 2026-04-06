@@ -94,4 +94,4 @@ AI 기반 채용 지원자 분석 시스템입니다. 이력서 업로드부터 
 ## Contact
 
 - Email: `jungcali94@gmail.com`
-- GitHub: [chanwootheca](https://github.com/chanwootheca)
+- GitHub: [chanwootheca](https://github.com/chanwoothecali)
