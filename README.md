@@ -134,8 +134,8 @@ Tech: FastAPI · PostgreSQL · PGVector · LangChain · Ollama
 
 <div align="center">
 
-![Chanwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanwoothecali&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanwoothecali&layout=compact&theme=default&hide_border=true&langs_count=8)
+![Chanwoo's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanwoothecali&theme=default)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chanwoothecali&theme=default)
 
 </div>
 
